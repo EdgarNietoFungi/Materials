@@ -1,3 +1,12 @@
+__hypothesis of this objective is that there are isolates of _S. sclerotiorum_ with low sensitivity to the most commonly used fungicides in the North Central United States.__  
+
+__Results will be used to determine whether some isolates are resistant to a given fungicide. It is expected that resistance to fungicides with single-site modes (β -tubulin assembly in mitosis, C14 demethylase in sterol biosynthesis, complex III cytochrome bc1 at Qo site and complex II succinate-dehydro-genase) of action will be more common than for multi-site fungicides__
+
+**New Hypotheses**
+Some S. sclerotiorum isolates from fungicide field trials and farmer fields will have decreased sensitivity to commonly used fungicides in the U.S.
+Some S. sclerotiorum isolates from dry beans will have decreased sensitivity compared to those from soybeans
+
+
 # MATERIALS AND METHODS:
 
 
@@ -20,4 +29,28 @@ thiophanate methyl (TM) as group 1, tetraconazole (T) as group 3, boscalid (B) a
 
 ## Baseline and Discriminatory Concentration
 The first goal was to determine the baseline through the evaluation and comparison fungicide sensitivity from those isolates with and without fungicide field exposure from the collection, called baseline isolates. From 42 isolates: 15 soybean fields isolates, 6 soybean fungicide trials isolates, and 21 baseline isolates (from white mold nurseries of dry beans) were used to determine the EC50. Fungicide sensitivity was determined using the serial dilution method with 6 concentrations for TM (0.75, 1.00, 1.50, 2.00, 2.50, 10.00 ppm & control), for T (0.5, 1.0, 2.0, 3.0, 5.0 ppm & control), for B (0.025, 0.050, 0.100, 0.200, 0.800 ppm & control), and (0.01, 0.02, 0.04, 0.06, 0.10 ppm & control) was done by 4 repetitions for each isolate and 2 experimental replications. Plates were incubated in darkness at 23 ± 2 °C for 42 h and measure diameter with digital calipers. A dose-response curve was fit to estimate the EC50 for each fungicide. The second goal was to identify the concentration with the best prediction of EC50 for each fungicide known as discriminatory concentration (DC) by linear regression of % mycelial growth vs. log(EC50) at each concentration. The concentration yielding the highest coefficient of determination (r2) was selected as DC for each fungicide. Then, as a validation, a linear regression of EC50 from plate dilution and EC50(D) from discriminatory concentration was carried out.
+
+
+
+WHEN POUR OR PIPETE METHANOL AND ACETONE FOR STOCK SOLUTIONS , DO NOPT USE A PLASTIC PIPETE FOR ACETONE, IT DEFORMS AND COULD MAKE A DIFFERNECE, IT DOES NOT HAPPEN WITH METHANOL
+Always check out the no pellet in SHAM and if so vortex as well for long period of time
+FORTEX AT LEAS  ONE MINTE THE FUNIGICIDE STOCK SOLUTION AND REVIEW IT AS WELL BEFORE USE IT
+Now iam making 20 ml of SHAm with approximately 2 g or 10 ml  with 1 g, and until finishes use  anews one, with that I make sure it is not very old. Lets see what happen with SHAM now if there is god results I can do two bunches.
+And with fungicide because many troubles previously I will use just the fisrt bunch which Iam  sure is as well weighted, and overall because it is very transparent, not rceomndbake but do that with TRANSPARENTE FUNGICIDES(use the same stock solutions for both experimental repeat)
+So far use THE FIRST FUNGICIDE STOCK SOLUTION AND MAYBE TWO DIFFERENET SHAM STOCK SOLUTIONS
+Always take pictures
+Always make and use the SAME CONDITIONS BTEWEEN EXPERRIMENTATION if not I wont be able to distinguish what affect if there is DIFFERENCE
+MAKE A NEW STOCK SOLUTION OF PICOXYSTROBILIN VERY CARFEULLY WITH THE LEAFTOVER, APPROX0.02, THINK ABOUT IT IF SO, DO NOT RECOMENDABLE WEIGH LESS THAN 0.02
+NO MORE THAN 13 ISOLATES BECAUSE TIRE AND BECAUSE TJEY PRECISE TO TAKE THE MEASURE MUST BE EXACT
+MARK ALWAYS THE TIME IN THE STACK 
+
+ I INCREASED THE TEMPREATURE OF THE BATH UP TO … CUS BECAUSE I MAKING HIGH AMOUNT OF MEDIA I SAW IT GETS COOL FASTER
+
+Thomas is using 54 C to poor the media, and two plates, sterilizing 
+BOSCALIDWAS DONR INCUBATOR WI==25 DARKNESS, WITH 25 C
+ First TM WAS DONE ROOM TEMPERATUE AT LAB DAYLIGHT AND DARKNESS
+
+
+
+
 
