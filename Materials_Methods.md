@@ -32,23 +32,7 @@ The first goal was to determine the baseline through the evaluation and comparis
 
 
 
-WHEN POUR OR PIPETE METHANOL AND ACETONE FOR STOCK SOLUTIONS , DO NOPT USE A PLASTIC PIPETE FOR ACETONE, IT DEFORMS AND COULD MAKE A DIFFERNECE, IT DOES NOT HAPPEN WITH METHANOL
-Always check out the no pellet in SHAM and if so vortex as well for long period of time
-FORTEX AT LEAS  ONE MINTE THE FUNIGICIDE STOCK SOLUTION AND REVIEW IT AS WELL BEFORE USE IT
-Now iam making 20 ml of SHAm with approximately 2 g or 10 ml  with 1 g, and until finishes use  anews one, with that I make sure it is not very old. Lets see what happen with SHAM now if there is god results I can do two bunches.
-And with fungicide because many troubles previously I will use just the fisrt bunch which Iam  sure is as well weighted, and overall because it is very transparent, not rceomndbake but do that with TRANSPARENTE FUNGICIDES(use the same stock solutions for both experimental repeat)
-So far use THE FIRST FUNGICIDE STOCK SOLUTION AND MAYBE TWO DIFFERENET SHAM STOCK SOLUTIONS
-Always take pictures
-Always make and use the SAME CONDITIONS BTEWEEN EXPERRIMENTATION if not I wont be able to distinguish what affect if there is DIFFERENCE
-MAKE A NEW STOCK SOLUTION OF PICOXYSTROBILIN VERY CARFEULLY WITH THE LEAFTOVER, APPROX0.02, THINK ABOUT IT IF SO, DO NOT RECOMENDABLE WEIGH LESS THAN 0.02
-NO MORE THAN 13 ISOLATES BECAUSE TIRE AND BECAUSE TJEY PRECISE TO TAKE THE MEASURE MUST BE EXACT
-MARK ALWAYS THE TIME IN THE STACK 
 
- I INCREASED THE TEMPREATURE OF THE BATH UP TO … CUS BECAUSE I MAKING HIGH AMOUNT OF MEDIA I SAW IT GETS COOL FASTER
-
-Thomas is using 54 C to poor the media, and two plates, sterilizing 
-BOSCALIDWAS DONR INCUBATOR WI==25 DARKNESS, WITH 25 C
- First TM WAS DONE ROOM TEMPERATUE AT LAB DAYLIGHT AND DARKNESS
 
 
 
