@@ -30,6 +30,11 @@ thiophanate methyl (TM) as group 1, tetraconazole (T) as group 3, boscalid (B) a
 ## Baseline and Discriminatory Concentration
 The first goal was to determine the baseline through the evaluation and comparison fungicide sensitivity from those isolates with and without fungicide field exposure from the collection, called baseline isolates. From 42 isolates: 15 soybean fields isolates, 6 soybean fungicide trials isolates, and 21 baseline isolates (from white mold nurseries of dry beans) were used to determine the EC50. Fungicide sensitivity was determined using the serial dilution method with 6 concentrations for TM (0.75, 1.00, 1.50, 2.00, 2.50, 10.00 ppm & control), for T (0.5, 1.0, 2.0, 3.0, 5.0 ppm & control), for B (0.025, 0.050, 0.100, 0.200, 0.800 ppm & control), and (0.01, 0.02, 0.04, 0.06, 0.10 ppm & control) was done by 4 repetitions for each isolate and 2 experimental replications. Plates were incubated in darkness at 23 ± 2 °C for 42 h and measure diameter with digital calipers. A dose-response curve was fit to estimate the EC50 for each fungicide. The second goal was to identify the concentration with the best prediction of EC50 for each fungicide known as discriminatory concentration (DC) by linear regression of % mycelial growth vs. log(EC50) at each concentration. The concentration yielding the highest coefficient of determination (r2) was selected as DC for each fungicide. Then, as a validation, a linear regression of EC50 from plate dilution and EC50(D) from discriminatory concentration was carried out.
 
+```
+Markdown -> Latex -> Latex Citeproc Bibliography Filter -> PDF
+```
+
+
 
 
 
