@@ -7,7 +7,7 @@ Some S. sclerotiorum isolates from fungicide field trials and farmer fields w
 Some S. sclerotiorum isolates from dry beans will have decreased sensitivity compared to those from soybeans
 
 
-# MATERIALS AND METHODS:
+# ATERIALS AND METHODS:
 
 
 ## Isolates
